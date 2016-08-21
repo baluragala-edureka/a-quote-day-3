@@ -5,5 +5,5 @@ app.get('/quote',function(request,response){
 })
 
 app.listen(8000,function(req,res){
-  console.log('Server Started')
+  console.log('Server Started');
 })
